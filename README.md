@@ -1,8 +1,11 @@
 # IBM-Project-41887-1660645823
+
 AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
 Team ID: PNT2022TMID49087
+
 Team Leader: Yazhini
+
 Team Members: Gokula Karthika, Santha Priya, Subanila
 
 Project Description:
