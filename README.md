@@ -22,7 +22,7 @@ Project Description:
 
  Data Collection:
  
-    Collect images of different food items organized into subdirectories based on their respective names as shown in the project structure.
+    Create the dataset or Collect the dataset
 
 Image Preprocessing:
 
